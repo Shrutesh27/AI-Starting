@@ -1,0 +1,10 @@
+#List is datatype we can store multiple data
+
+#List vs Array
+#Array is homogenius: store similar datatypes values
+#List can be hetrogenious store multiple datatype values
+
+#Array stores values in continued memory location like 
+# if we store 1 3 5 in array index can be different in list
+#Arrays are must faster than list
+#List is programmer friendly
