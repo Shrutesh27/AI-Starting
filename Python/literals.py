@@ -46,4 +46,4 @@ print("b",b)
 # so we use None to just declare blank will use later on
 #f; cannot declare blank getting error
 f=None
-print(d)
+print(f)

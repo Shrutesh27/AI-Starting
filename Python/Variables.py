@@ -34,3 +34,5 @@ a=b=c=7
 print("a",a)
 print("b",b)
 print("c",c)
+a=[2,34,35,23]
+print(a+[34,353,242])
