@@ -13,7 +13,7 @@ range_Step=list(range(1,11,2))
 print(range_Step)
 
 print(list(range(10,0,-2)))#reverse even no
-
+print(list(range(10,1,-1)))
 #sequence any thing in order
 #String: "Kolkata", list: ["Kolkata","Goa","Mumbai"]
 #tuple("kolkata","goa","Mumbai")

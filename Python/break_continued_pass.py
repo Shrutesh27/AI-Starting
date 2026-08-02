@@ -1,4 +1,4 @@
-#Break: used in linear searching to terminate onec got required ans
+#Break: used in linear searching to terminate onec got a required ans
 #in bank if want to search rahul & there is 1000 account holders
 #so we search for rahul if rahul at 100 then search till 100 the stop
 print("Break")
